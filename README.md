@@ -1,9 +1,3 @@
 # Meusprojetos
 
-# Portugues-BR
-
-# Aqui se encontra todos os meus projetos
-
-# English
-
-# Here are all my project
+https://roadmap.sh/projects/server-stats
